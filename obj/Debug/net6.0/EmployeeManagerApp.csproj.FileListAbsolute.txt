@@ -1,0 +1,14 @@
+C:\Users\E1009615\Dev\EmployeeManagerApp\bin\Debug\net6.0\EmployeeManagerApp.exe
+C:\Users\E1009615\Dev\EmployeeManagerApp\bin\Debug\net6.0\EmployeeManagerApp.deps.json
+C:\Users\E1009615\Dev\EmployeeManagerApp\bin\Debug\net6.0\EmployeeManagerApp.runtimeconfig.json
+C:\Users\E1009615\Dev\EmployeeManagerApp\bin\Debug\net6.0\EmployeeManagerApp.dll
+C:\Users\E1009615\Dev\EmployeeManagerApp\bin\Debug\net6.0\EmployeeManagerApp.pdb
+C:\Users\E1009615\Dev\EmployeeManagerApp\obj\Debug\net6.0\EmployeeManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E1009615\Dev\EmployeeManagerApp\obj\Debug\net6.0\EmployeeManagerApp.AssemblyInfoInputs.cache
+C:\Users\E1009615\Dev\EmployeeManagerApp\obj\Debug\net6.0\EmployeeManagerApp.AssemblyInfo.cs
+C:\Users\E1009615\Dev\EmployeeManagerApp\obj\Debug\net6.0\EmployeeManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\E1009615\Dev\EmployeeManagerApp\obj\Debug\net6.0\EmployeeManagerApp.dll
+C:\Users\E1009615\Dev\EmployeeManagerApp\obj\Debug\net6.0\refint\EmployeeManagerApp.dll
+C:\Users\E1009615\Dev\EmployeeManagerApp\obj\Debug\net6.0\EmployeeManagerApp.pdb
+C:\Users\E1009615\Dev\EmployeeManagerApp\obj\Debug\net6.0\EmployeeManagerApp.genruntimeconfig.cache
+C:\Users\E1009615\Dev\EmployeeManagerApp\obj\Debug\net6.0\ref\EmployeeManagerApp.dll

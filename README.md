@@ -1,6 +1,3 @@
-Here’s the updated `README.md` content that you can add to your GitHub repository:
-
----
 
 ````markdown
 # EmployeeManagerApp

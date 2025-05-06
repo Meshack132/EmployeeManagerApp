@@ -18,7 +18,7 @@ jobs:
     - name: Setup .NET SDK
       uses: actions/setup-dotnet@v3
       with:
-        dotnet-version: 8.0.x # Adjust based on your project SDK version
+        dotnet-version: 8.0.x  # Adjust if using a different SDK version
 
     - name: Restore dependencies
       run: dotnet restore
@@ -28,3 +28,12 @@ jobs:
 
     - name: Run tests
       run: dotnet test --no-restore --verbosity normal
+
+    - name: Publish project
+      run: dotnet publish -c Release -o ./publish
+
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: EmployeeManagerApp-build
+        path: ./publish

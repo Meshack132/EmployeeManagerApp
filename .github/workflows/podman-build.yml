@@ -1,0 +1,26 @@
+name: Podman Build
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Install Podman
+      run: |
+        sudo apt update
+        sudo apt -y install podman
+
+    - name: Build with Podman
+      run: |
+        podman build -t employeemanagerapp .
+
+    - name: Run Container
+      run: |
+        podman run -d -p 8080:80 employeemanagerapp
